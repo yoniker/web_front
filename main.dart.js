@@ -38810,7 +38810,7 @@ j=M.aj(C.bw,T.bq(H.a([m,new Z.mg(8,2.8,2,2,C.ab,h),new T.cw(new S.ag(250,k.a.a,3
 k=L.ao("Artificial Intelligence",h,h,h,C.a3,h,h)
 m=F.asn(new S.ag(0,b.N(l).f.a.a,75,90.5),new T.cR(new K.cm(-1.02,-2),h,h,B.cG(h,"assets/images/try_me_label.png",4),h),new Z.I6(C.tJ,C.aj,h),"See your children",new X.ahd(this,b,a),h,h)
 i=L.bB(C.kz,C.cc,h)
-return H.a([s,q,p,o,n,j,M.aj(C.bw,T.bq(H.a([k,new Z.mg(8,2.8,2,2,C.ab,h),m,F.asn(new S.ag(0,b.N(l).f.a.a,75,90.5),h,i,"You Liking Probability",new X.ahe(),h,new X.JF(20,20,h)),F.asn(new S.ag(0,b.N(l).f.a.a,75,90.5),h,L.bB(C.kz,C.cc,h),"Match Probability",h,h,new X.Js(20,h))],r),C.aI,C.A,C.l),C.h,h,h,h,h,h,h,h,new V.T(5,8,5,12),h,h,h)],r)},
+return H.a([s,q,p,o,n,j,M.aj(C.bw,T.bq(H.a([k,new Z.mg(8,2.8,2,2,C.ab,h),m,F.asn(new S.ag(0,b.N(l).f.a.a,75,90.5),h,i,"Personal preference score",new X.ahe(),h,new X.JF(20,20,h)),F.asn(new S.ag(0,b.N(l).f.a.a,75,90.5),h,L.bB(C.kz,C.cc,h),"Compatibility score",h,h,new X.Js(20,h))],r),C.aI,C.A,C.l),C.h,h,h,h,h,h,h,h,new V.T(5,8,5,12),h,h,h)],r)},
 a9D:function(){var s=null,r=H.a([new O.b6(0,C.ab,new P.q(0,0.2),16)],t.R)
 return M.aj(s,M.db(C.z,!0,s,T.aV(H.a([R.fQ(!1,K.bW(15),!0,F.hv("assets/images/dislike_match_icon.png",C.aX,s,4),s,!0,s,s,s,s,s,s,s,s,s,new X.ah5(this),s,s,s),R.fQ(!1,K.bW(15),!0,F.hv("assets/images/like_match_icon.png",C.aX,s,3.75),s,!0,s,s,s,s,s,s,s,s,s,new X.ah6(this),s,s,s),R.fQ(!1,K.bW(15),!0,F.hv("assets/images/draft_message_icon.png",C.aX,s,4),s,!0,s,s,s,s,s,s,s,s,s,new X.ah7(),s,s,s)],t.t),C.o,C.aP,C.l),C.h,C.ag,0,s,s,s,s,C.ak),C.h,s,s,new S.bL(C.n,s,s,s,r,s,s,C.F),new S.bL(C.ag,s,s,s,s,s,s,C.F),s,s,s,C.t9,s,s,s)},
 K:function(a,b){var s=null,r=t.w
